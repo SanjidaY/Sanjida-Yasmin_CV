@@ -3,8 +3,8 @@
 Welcome to my professional CV repository. I am a Data Engineer based in Dresden, Germany, with experience building scalable data pipelines, managing cloud infrastructure, and working with complex database architectures.
 
 ### 📄 How to View My CV
-* **[Click here to view or download the full CV PDF](./Sanjida_Yasmin_Lebenslauf.pdf)** 
-
+* **[Click here to view or download the full CV in Deutsch PDF](./Sanjida_Yasmin_Lebenslauf.pdf)** 
+* **[Click here to view or download the full CV in English PDF](./Sanjida_Yasmin_CV.pdf)** 
 
 ---
 
