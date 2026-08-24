@@ -20,4 +20,4 @@ Welcome to my professional CV repository. I am a Data Engineer based in Dresden,
 ### 📬 Get in Touch
 * **LinkedIn:** https://www.linkedin.com/in/yasmin-sanjida/
 * **Email:** sanji.jasmin@gmail.com
-* **Location:** Dresden, Germany (Open to Remote & Hybrid roles)
+* **Location:** Frankfurt & Dresden, Germany (Open to Remote & Hybrid roles)
