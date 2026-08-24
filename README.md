@@ -4,7 +4,7 @@ Welcome to my professional CV repository. I am a Data Engineer based in Dresden,
 
 ### 📄 How to View My CV
 * **[Click here to view or download the full CV in Deutsch PDF](./Sanjida_Yasmin_Lebenslauf2.pdf)** 
-* **[Click here to view or download the full CV in English PDF](./Sanjida_Yasmin_CV (2).pdf)** 
+* **[Click here to view or download the full CV in English PDF](./Sanjida_Yasmin_CV%20(2).pdf)** 
 
 ---
 
